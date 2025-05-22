@@ -12,5 +12,14 @@
 
 - 🌍 Idiomas: Español 🇪🇸 
 - 🚀 Siempre buscando nuevos retos y tecnologías que me reten e inspiren
-- 📍 Desde cucuta, Norte De Santander – Colombia 🇨🇴  
- 
+- 📍 Desde cucuta, Norte De Santander – Colombia 🇨🇴
+
+- ### 🛠️ Tech Stack
+
+  #### Lenguajes  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Herramientas  
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
