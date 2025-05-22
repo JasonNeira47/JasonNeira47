@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🌍 Idiomas: Español 🇪🇸 |
+- 🌍 Idiomas: Español 🇪🇸 
 - 🚀 Siempre buscando nuevos retos y tecnologías que me reten e inspiren
 - 📍 Desde cucuta, Norte De Santander – Colombia 🇨🇴  
  
