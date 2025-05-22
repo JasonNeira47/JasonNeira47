@@ -14,8 +14,3 @@
 - 🚀 Siempre buscando nuevos retos y tecnologías que me reten e inspiren
 - 📍 Desde cucuta, Norte De Santander – Colombia 🇨🇴  
  
----
-
-@@ -47,10 +50,11 @@
-
----
